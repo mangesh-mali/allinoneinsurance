@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Mangesh Vijaykumar Mali",
+    "email": "mangesh.v.mali@gmail.com",
+    "mbno": 7719882066,
+    "pass": "1",
+    "cpass": "1",
+    "id": 1
+  },
+  {
+    "name": "Suraj",
+    "email": "suarj@gmail.com",
+    "mbno": 7719882066,
+    "pass": "1",
+    "cpass": "1",
+    "id": 2
+  },
+  {
+    "name": "Suvarna",
+    "email": "Suvarna@gmail.com",
+    "mbno": 7719882066,
+    "pass": "2",
+    "cpass": "2",
+    "id": 3
+  }
+]
