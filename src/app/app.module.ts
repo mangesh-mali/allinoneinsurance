@@ -7,10 +7,12 @@ import { AppComponent } from './app.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { HttpClientModule}from '@angular/common/http'
 import { FooterComponent } from './footer/footer.component';
+import { TestCompComponent } from './test-comp/test-comp.component';
 @NgModule({
   declarations: [
     AppComponent,
-    FooterComponent
+    FooterComponent,
+    TestCompComponent
   ],
   imports: [
     BrowserModule,
